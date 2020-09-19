@@ -29,7 +29,7 @@ Summary of the best CART TREE model.The ACCURACY of the model 97%. As you can s
 
 Summary of the best CART TREE model, which were improved by CROSS VALIDATION.The ACCURACY of the model 98%. As you can see, the accuracy of the model has been improved. CP = 0.001. Note, that the penalty error is also lower
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/employees_lr_ct_rf_cv_models/master/images/Rplot02.jpeg)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/employees_lr_ct_rf_cv_models/master/images/Rplot02.png)
 
 Summary of the best RANDOM FOREST model.The ACCURACY of the model 99%.
  
